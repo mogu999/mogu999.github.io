@@ -2,30 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mogu999.github.io/</id>
     <title>末谷</title>
-    <updated>2019-12-05T12:03:23.724Z</updated>
+    <updated>2020-01-30T03:41:52.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mogu999.github.io/"/>
-    <link rel="self" href="https://mogu999.github.io//atom.xml"/>
+    <link rel="self" href="https://mogu999.github.io/atom.xml"/>
     <subtitle>诗意生活</subtitle>
-    <logo>https://mogu999.github.io//images/avatar.png</logo>
-    <icon>https://mogu999.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 末谷</rights>
-    <entry>
-        <title type="html"><![CDATA[ 访友记]]></title>
-        <id>https://mogu999.github.io//post/fang-you-ji</id>
-        <link href="https://mogu999.github.io//post/fang-you-ji">
-        </link>
-        <updated>2017-11-17T11:58:23.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 长夜将至，和喜欢的人互道晚安]]></title>
-        <id>https://mogu999.github.io//post/chang-ye-jiang-zhi-he-xi-huan-de-ren-hu-dao-wan-an</id>
-        <link href="https://mogu999.github.io//post/chang-ye-jiang-zhi-he-xi-huan-de-ren-hu-dao-wan-an">
-        </link>
-        <updated>2017-11-17T07:59:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>每一个人，都有在深夜饮过烈酒，想念过一个人吧……</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>每一个人，都有在深夜饮过烈酒，想念过一个人吧……</p>
-]]></content>
-    </entry>
+    <logo>https://mogu999.github.io/images/avatar.png</logo>
+    <icon>https://mogu999.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 末谷</rights>
 </feed>
